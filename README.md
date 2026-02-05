@@ -33,11 +33,6 @@ end.html: Edit the HTML structure of the app and update the UI elements.
 highscores.css: Modify the CSS styles to change the visual appearance.
 highscores.js: Update the JavaScript logic and functionality according to your requirements.
 highscores.html: Edit the HTML structure of the app and update the UI elements.
-Contributions
-Contributions to this Quiz Web App are welcome! If you have any improvements or feature suggestions, feel free to open an issue or submit a pull request. Please make sure to follow the existing code style and guidelines.
-
-License
-This project is licensed under the MIT License. Feel free to use and modify the code according to the terms of this license.
 
 Acknowledgements
 The Quiz Web App utilizes the Open Trivia Database API for fetching quiz questions.
